@@ -1,6 +1,6 @@
 # 🎮 Potentiometer-Controlled Traffic Escape Game 🚗💨
 ___ 
-A real-time embedded game built using Assembly language, where you control a player (vehicle) using a potentiometer and dodge incoming traffic! 🏎️🚦
+A real-time embedded game built using Assembly language, where you control a vehicle using a potentiometer and dodge incoming traffic! 🏎️🚦
 If you crash into an oncoming vehicle 🚗🚛🏍️, the game displays a sad face 😞 and ends. To restart, simply press the reset button. Can you survive the chaotic traffic? 🛣️🔥
 ___ 
 # 🎯 Features
